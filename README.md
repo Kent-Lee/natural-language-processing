@@ -38,4 +38,4 @@ Clone the repository and run the command in project's root directory:
 
 * The `scripts` folder contains scripts used to obtain the data. The scripts are provided and not written by me.
 
-* The `output` folder contains processed datasets, which are 4 figures. Text analysis are  printed on the console.
+* The `output` folder contains processed datasets, which are 4 figures. Text analysis is printed on the console.
