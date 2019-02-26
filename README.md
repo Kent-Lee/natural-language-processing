@@ -1,6 +1,6 @@
-# Wikidata, Movies and Success
+# Natural Language Processing on Movies
 
-This is the final project for CMPT 353 Data Science, which is about natural language processing. The objective is to determine the success of a movie in terms of popularity by its plot summary. The workflow of the data analysis consists of two main parts: predict movie genres from movie descriptions and analyze the trends of movie genres over time. This allows one to classify the genres of a movie and correlate them to the current trend to see if the identified genres are popular.
+This is the final project for CMPT 353 Data Science course. The objective is to determine the success of a movie in terms of popularity by its plot summary. The workflow of the data analysis consists of two main parts: predict movie genres from movie descriptions and analyze the trends of movie genres over time. This allows one to classify the genres of a movie and correlate them to the current trend to see if the identified genres are popular.
 
 ## Libraries
 
