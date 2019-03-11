@@ -4,11 +4,11 @@ This is the final project for CMPT 353 Data Science course. The objective is to 
 
 ## Instructions
 
-Install the libraries:
+Install libraries:
 
     pip install --user numpy pandas matplotlib scikit-learn
 
-Clone the repository and run the command in project's root directory:
+Clone the repository and run the program in project's root directory:
 
     python movie-analysis.py
 
