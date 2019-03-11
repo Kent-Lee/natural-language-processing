@@ -2,25 +2,15 @@
 
 This is the final project for CMPT 353 Data Science course. The objective is to determine the success of a movie in terms of popularity by its plot summary. The workflow of the data analysis consists of two main parts: predict movie genres from movie descriptions and analyze the trends of movie genres over time. This allows one to classify the genres of a movie and correlate them to the current trend to see if the identified genres are popular.
 
-## Libraries
-
-* numPy
-
-* pandas
-
-* matplotlib
-
-* scikit-learn
-
 ## Instructions
 
 Install the libraries:
 
     pip install --user numpy pandas matplotlib scikit-learn
 
-Clone the repository and run the command in project's root directory: 
+Clone the repository and run the command in project's root directory:
 
-    py movie-analysis.py
+    python movie-analysis.py
 
 ## Folder Structure
 
